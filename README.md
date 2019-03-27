@@ -2,7 +2,9 @@
 
 ## Install dependencies
     Install NodeJS
-    Install Dependencies : `npm i`
+    Clone Repo
+    Open Repo in Terminal 
+    Install Dependencies : npm i
 
 ## Proof Of Work
 
